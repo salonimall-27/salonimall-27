@@ -89,10 +89,6 @@ Interactive browser-based UI games
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
-</p>
-
 ---
 
 ## 📚 Coursework Focus
@@ -134,13 +130,7 @@ Interactive browser-based UI games
 <p align="center">
   🧠 “Data is powerful. But insight is everything.” 💻
 </p>
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 </p>

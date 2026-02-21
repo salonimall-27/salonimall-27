@@ -134,7 +134,13 @@ Interactive browser-based UI games
 <p align="center">
   🧠 “Data is powerful. But insight is everything.” 💻
 </p>
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 </p>

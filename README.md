@@ -1,94 +1,138 @@
-# Hi, I'm Saloni Mall 👋
+<!-- PREMIUM ANIMATED HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Saloni%20Mall&fontSize=45&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+</p>
 
-🎓 B.Tech Computer Science Engineering (3rd Year)  
-🏫 S.R. Institute of Management & Technology, Lucknow  
-💻 Aspiring Software Developer | Interested in Data Science  
+<h2 align="center">
+  💻 Full-Stack Developer | 🧠 Data Science Enthusiast | 🚀 Problem Solver
+</h2>
 
----
-
-## 👩‍💻 About Me
-
-I am a pre-final year Computer Science Engineering student with a strong interest in software development and data-driven problem solving. I enjoy building web applications and continuously improving my technical skills.
-
-- 🌱 Currently learning: Full Stack Development & Data Science  
-- 💡 Strong foundation in Data Structures and core CS subjects  
-- 🎯 Goal: To work as a Software Developer and contribute to real-world projects  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Always+Learning+Always+Growing" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 👩‍💼 About Me
 
-**Programming Languages:**  
-Python, Java, JavaScript  
-
-**Web Development:**  
-HTML, CSS, Node.js  
-
-**Database:**  
-MySQL  
-
-**Core Subjects:**  
-Data Structures & Algorithms, DBMS, Operating Systems, OOP, Computer Networks  
-
-**Tools:**  
-Git, GitHub, VS Code  
+🎓 B.Tech in Computer Science Engineering   
+🏫 SRIMT, Lucknow (AKTU)  
+📊 Passionate about Data Science & Analytics  
+💡 Strong foundation in DSA & Problem Solving  
+🌱 Exploring Machine Learning & AI  
+⚡ Goal: To build intelligent systems that solve real-world problems  
 
 ---
 
-## 🚀 Projects
+## 🧠 Data Science & Technical Expertise
 
-### 🔹 Smart Resume Analyzer
-- Developed a Python-based application to analyze resumes  
-- Provides feedback on missing content and formatting  
+### 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript" />
+</p>
 
-### 🔹 Netflix Clone & Amazon Clone
-- Built responsive UI similar to real platforms  
-- Implemented structured frontend and backend concepts  
+### 📊 Data Science Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-Problem_Solving-purple?style=for-the-badge"/>
+</p>
 
-### 🔹 AI Recipe Generator & Weather Reporter
-- Developed responsive web applications  
-- Focused on clean UI and structured design  
+### 🌐 Full-Stack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" />
+</p>
 
-### 🔹 Web Games
-- Cosmic Breaker, Retro Snake, Straight Catcher  
-- Browser-based interactive games  
-
----
-
-## 🎓 Education
-
-- **B.Tech in Computer Science Engineering**  
-  S.R. Institute of Management & Technology, Lucknow *(2024–2027)*  
-
-- **B.Sc in Mathematics**  
-  Dr. Ram Manohar Lohia Avadh University *(2021–2024)*  
-
-- **Intermediate**  
-  Geeta International Public School  
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ---
 
-## 📜 Certifications
+## 🚀 Highlight Projects
 
-- ADCA (Advanced Diploma in Computer Application)  
-- CCC (Course on Computer Concepts)  
+### 🤖 Smart Resume Analyzer
+🔹 Python-based intelligent resume screening system  
+🔹 Analyzes formatting & missing content  
+🔹 Designed for structured feedback  
+🔹 Tech: Python, HTML, CSS  
+
+---
+
+### 🎬 Netflix & Amazon Clone (MERN)
+🔹 Authentication & User Management  
+🔹 MongoDB Database Integration  
+🔹 Redux State Management  
+🔹 Firebase Integration  
+🔹 Video streaming UI  
+
+---
+
+### 🍲 AI Recipe Generator & 🌦️ Weather Reporter
+🔹 Responsive UI  
+🔹 Clean structured front-end  
+🔹 Real-time data presentation  
+
+---
+
+### 🎮 Web Game Collection
+Cosmic Breaker | Retro Snake | Straight Catcher  
+Interactive browser-based UI games  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 📚 Coursework Focus
+
+✔ Database Management Systems  
+✔ Operating Systems  
+✔ Object-Oriented Programming  
+✔ Computer Networks  
+✔ Data Structures & Algorithms  
+✔ Cyber Security  
+✔ Web Technology  
 
 ---
 
 ## 🌟 Soft Skills
 
-Leadership • Teamwork • Communication • Adaptability • Time Management  
+✨ Leadership  
+✨ Communication  
+✨ Adaptability  
+✨ Team Collaboration  
+✨ Fast Learner  
+✨ Attention to Detail  
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
 
-- 📧 Email: salonimall2127@gmail.com  
-- 🔗 LinkedIn: YOUR_LINKEDIN_LINK  
+<p>
+  <a href="mailto:salonimall2127@gmail.com">
+    <img src="https://img.shields.io/badge/Email-203A43?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/salonimall27">
+    <img src="https://img.shields.io/badge/LinkedIn-2C5364?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<p align="center">
+  🧠 “Data is powerful. But insight is everything.” 💻
+</p>
 
-![Saloni's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+</p>
+
 
